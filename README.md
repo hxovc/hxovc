@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://hxovc.s-ul.eu/6u5t86eS" width="250"/>
+  <img src="https://hxovc.s-ul.eu/6u5t86eS" width="200"/>
 </p>
 <h1 align="center">hxovc</h1>
 <p align="center"><i>osu! | Mouse Player | Ex #1 🇨🇴 | Skin Designer | ENFP-T</i></p>

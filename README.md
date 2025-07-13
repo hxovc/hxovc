@@ -1,32 +1,34 @@
-<h1 align="center">Welcome to my profile!</h1>
-<p align="center"><i>owo</i></p>
+<p align="center">
+  <img src="https://hxovc.s-ul.eu/6u5t86eS" width="250"/>
+</p>
+<h1 align="center">hxovc</h1>
+<p align="center"><i>osu! | Mouse Player | Ex #1 🇨🇴 | Skin Designer | ENFP-T</i></p>
+
+<p align="center">
+  <a href="https://osu.ppy.sh/users/hxovc">osu!</a> • 
+  <a href="https://youtube.com/@hxovc">YouTube</a> • 
+  <a href="https://instagram.com/hxovc_owo">Instagram</a> • 
+  <a href="https://linktr.ee/hxovc">Linktree</a>
+</p>
 
 ---
 
 ## 🧩 About
 
-I'm an osu! mouse player from Colombia currently in ranking #7. I do graphic design (skins) when I'm bored or with free time. Honestly I don't know if this is going to be just osu! related. I hope not.
+osu! mouse player currently ranked <strong>#7</strong> nationally.  
+I design skins when I’m bored or inspired.  
+This space might go beyond osu! eventually — we’ll see.
 
 ---
 
-## 🌐 Profiles
+## ⚙️ In Progress
 
-| Domain | Link |
-|--------|------|
-| 🎮 osu! | [osu.ppy.sh/users/hxovc](https://osu.ppy.sh/users/hxovc) |
-| 📺 YouTube | [youtube.com/@hxovc](https://youtube.com/@hxovc) |
-| 🧪 Wikidata | [wikidata.org/wiki/User:hxovc](https://www.wikidata.org/wiki/User:hxovc) |
-| 🖼️ Instagram | [instagram.com/hxovc](https://instagram.com/hxovc) |
+- 🎮 **Kasumi V1.4** (on pause)
+- 🛠️ Experiments with minimal UI
 
 ---
 
-## ⚙️ Currently in Progress
-
-- Kasumi V1.4 Skin (Paused)
-
----
-
-<h3 align="center">You can send a dm in game.</h3>
+<p align="center"><i>You can send a DM in-game — I'm usually online.</i></p>
 
 
 <!--

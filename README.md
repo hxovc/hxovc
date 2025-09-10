@@ -2,7 +2,7 @@
   <img src="https://hxovc.s-ul.eu/9M52FJyU" width="200"/>
 </p>
 <h1 align="center">hxovc</h1>
-<p align="center"><i>osu! | Mouse Player | Ex #1 🇨🇴 | Skin Designer | ENFP-T</i></p>
+<p align="center"><i>osu! | Mouse Player | Skin Designer | ENFP-T</i></p>
 
 <p align="center">
   <a href="https://osu.ppy.sh/users/hxovc">osu!</a> • 

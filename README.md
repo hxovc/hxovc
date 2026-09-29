@@ -162,15 +162,15 @@ Other
 </details>
 
 <details>
-<summary><b>✦ Some numbers</b></summary>
+<summary><b>✦ Current status</b></summary>
 
 <br>
 
 |      |                    |
 | ---- | ------------------ |
 | 🎮   | osu! mouse player  |
-| 🇨🇴 | #7 Colombia        |
-| 🛠️  | Building Miliastry |
+| 🇨🇴   | #7 Colombia        |
+| 🛠️   | Building Miliastry |
 | ⚙️   | Developing Quasar  |
 | 🐧   | Linux              |
 
